@@ -28,6 +28,7 @@ body{
     width:100%;
     background-color: blue;
     background-image: url("mother.jpg");
+    background-size: cover;
     
 }
 .box{
