@@ -27,21 +27,21 @@ body{
     height:100%;
     width:100%;
     background-color: blue;
-    background-image: url("mother.jpg");
+    background-image: url("black1.jpeg");
     background-size: cover;
     
 }
 .box{
     display:grid;
-    width:75%;
+    width:90%;
     height:33%;
     grid-template-columns: 1fr 1fr 1fr;
     
     position:relative;
-    left:12.5%;
+    left:5%;
     top:33%;
     grid-template-rows: 100%;
-    grid-column-gap: 30px;;
+    grid-column-gap: 70px;
     text-align: center;
 }
 
@@ -57,7 +57,7 @@ img{
     height:100%;
     width:100%;
     overflow: hidden;
-    box-shadow: 8px 8px 8px rgb(39, 18, 226);
+    box-shadow: 8px 8px 8px rgb(77, 75, 75);
     position:relative;
     
    
