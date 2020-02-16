@@ -26,10 +26,13 @@ body{
     top:100vh;
     height:100%;
     width:100%;
-    background-color: blue;
-    background-image: url("black1.jpeg");
-    background-size: cover;
+    background: linear-gradient(180deg,rgb(32,32,32),rgb(143, 141, 141));
+   
     
+    
+}
+.contact img{
+    text-decoration: none;
 }
 .box{
     display:grid;
@@ -51,13 +54,14 @@ img{
     height:100%;
     
     
+    
 }
 
 .box div{
     height:100%;
     width:100%;
     overflow: hidden;
-    box-shadow: 8px 8px 8px rgb(77, 75, 75);
+    box-shadow: 8px 18px 20px rgb(77, 75, 75);
     position:relative;
     
    
