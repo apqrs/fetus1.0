@@ -33,6 +33,14 @@ body{
     font-size:50px;
     
 }
+.quote{
+    text-align: center;
+    padding:5%;
+    letter-spacing: 10px;
+    font-size: 50px;
+   
+    
+}
 .scroll{
     position: absolute;
     bottom:30px;
